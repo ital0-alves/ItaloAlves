@@ -11,10 +11,10 @@
 
 ##
 <div>
-  <a href="https://github.com/PEREIRINHAAH"> 
+  <a href="https://github.com/ital0-alves"> 
 <img height="42%" src="https://github-readme-stats.vercel.app/api?username=PEREIRINHAAH=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEREIRINHAAH=compact&langs_count=16&theme=dark"/>
+" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ital0-alves=compact&langs_count=16&theme=dark"/>
 </div>
 ##
 <div style="display: inline_block"><br>
